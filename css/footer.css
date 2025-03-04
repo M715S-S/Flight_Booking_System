@@ -1,10 +1,10 @@
 footer {
-    background-color: #333;
-    color: white;
+    background-color: rgb(246, 226, 245);
+    color: rgb(164, 82, 146);
     text-align: center;
     padding: 10px;
     margin-top: 20px;
-    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 -2px 5px rgba(227, 50, 183, 0.645);
 }
 
 footer p {

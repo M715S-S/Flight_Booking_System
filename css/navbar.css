@@ -1,11 +1,11 @@
 nav {
-    background-color: #007bff;
+    background-color: #ee00ff;
     text-align: center;
     padding: 10px 0;
 }
 
 nav a {
-    color: white;
+    color: rgb(209, 63, 167);
     text-decoration: none;
     margin: 0 15px;
     font-size: 18px;
@@ -14,7 +14,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #0056b3;
-    color: #f4f4f4;
+    background-color: #aa00b3;
+    color: #c246a9;
     text-decoration: underline;
 }
